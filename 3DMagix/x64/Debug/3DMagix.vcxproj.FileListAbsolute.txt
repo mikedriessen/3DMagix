@@ -1,0 +1,2 @@
+C:\Users\mlhdr\Documents\Fontys\3DMagix\x64\Debug\glfw3.dll
+C:\Users\mlhdr\Documents\Fontys\3DMagix\3DMagix\x64\Debug\3DMagix.vcxproj.Up2Date
